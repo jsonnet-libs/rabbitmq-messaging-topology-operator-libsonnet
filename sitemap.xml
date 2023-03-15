@@ -2,82 +2,242 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1alpha1/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1alpha1/superStream/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/binding/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/exchange/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/federation/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/permission/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/policy/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/queue/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/schemaReplication/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/shovel/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/topicPermission/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/user/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.10/rabbitmq/v1beta1/vhost/</loc>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1alpha1/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1alpha1/superStream/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/binding/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/exchange/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/federation/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/permission/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/policy/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/queue/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/schemaReplication/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/shovel/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/user/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.8/rabbitmq/v1beta1/vhost/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1alpha1/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1alpha1/superStream/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/binding/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/exchange/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/federation/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/permission/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/policy/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/queue/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/schemaReplication/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/shovel/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/topicPermission/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/user/</loc>
+         <lastmod>2023-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/rabbitmq-messaging-topology-operator-libsonnet/1.9/rabbitmq/v1beta1/vhost/</loc>
+         <lastmod>2023-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
